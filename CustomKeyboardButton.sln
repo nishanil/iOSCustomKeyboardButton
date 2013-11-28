@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomKeyboardButton", "CustomKeyboardButton\CustomKeyboardButton.csproj", "{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}.Release|iPhone.Build.0 = Release|iPhone
+		{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D07FA19B-36C3-4EBC-BF3A-AC6ACAA6DA27}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CustomKeyboardButton\CustomKeyboardButton.csproj
+	EndGlobalSection
+EndGlobal
